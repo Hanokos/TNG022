@@ -1,7 +1,7 @@
 Lab1 2024 HT
 
 
-Task 1.1 Implement the two models in the corresponding simulation environment. Simulate the two models and verify that they give the same simulation results.
+Task 1.1 Implement the two models in the corresponding simulation environment. Simulate the two models and verify that they give the same simulation results.
 
 Task 1.2 Both the time constants of the motor are given in Figure 8 in Appendix A. The
 electrical time constants is defined as the time constant of the current when a voltage step
