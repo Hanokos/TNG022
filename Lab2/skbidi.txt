@@ -1,1 +1,3 @@
 2024 HT
+Bilden för OMedit ARM. sista bilden är fel. Ska ej ha en inertia m. behöver bara mass blocket med det andra till höger 
+om det för att simulera gravitation påverkan, dvs m*g
